@@ -48,7 +48,7 @@ Exercise 1: Convert centimeters to feet. One foot is 30.48 cm.
 
 Exercise 2: Convert seconds to minutes.
 
-Exercise 3: In this example we are going to calculate the salary of a camera salesman. His basic salary is 1500, for every camera he will sell he will get 200 and the commission on the month’s sale is 2 %. The input will be number of cameras sold and total price of the cameras.
+Exercise 3: In this example we are going to calculate the salary of a camera salesman. His basic salary is 1 500, for every camera he will sell he will get 200 and the commission on the month’s sale is 2 %. The input will be number of cameras sold and total price of the cameras.
 (from [https://pymbook.readthedocs.io/en/latest/operatorsexpressions.html](https://pymbook.readthedocs.io/en/latest/operatorsexpressions.html))   
 
 
