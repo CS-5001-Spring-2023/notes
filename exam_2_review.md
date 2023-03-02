@@ -39,7 +39,7 @@ The topics covered on the exam will include the following:
 def mystery(n):
 	if n == 1:
 		return 1
-	# return n + mystery(n-1)
+	return n + mystery(n-1)
 
 ```
 
