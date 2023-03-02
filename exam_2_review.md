@@ -92,10 +92,11 @@ Write a function called get\_key\_string that receives a dictionary and returns 
 **Question 7**
 Write a function called initialize that creates and returns a dictionary that contains the following data:
 
-Keys	Values
-Maria	Associate Professor
-Jodi	Professor of the Practice
-Beth	Dean of Khoury
+|Keys| Values	                    |
+|---|----------------------------|
+| Maria | Associate Professor |
+| Jodi | Professor of the Practice |
+| Beth | Dean of Khoury |
 
 **Question 8**
 
